@@ -1,0 +1,37 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin 2.0 build cache
+.kotlin/
+
+# Local config
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Android / build artifacts
+*.apk
+*.ap_
+*.dex
+*.class
+captures/
+.externalNativeBuild/
+.cxx/
+output-metadata.json
+
+# Keystores
+*.jks
+*.keystore
+
+# Google services (if used)
+google-services.json
+
+# Logs / profiling
+*.log
+*.hprof
+
+
